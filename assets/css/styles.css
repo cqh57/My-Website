@@ -308,6 +308,11 @@ img {
     width: 250px;
 }
 
+.home__blob-img:hover{
+    transform: translateX(.5rem);
+    
+}
+
 .home__data {
     grid-column: 1/3;
 }
